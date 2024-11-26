@@ -24,7 +24,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/multiple-disease-prediction.git
+   git clone https://github.com/kumarishav/multiple-disease-prediction.git
    cd multiple-disease-prediction
    ```
 
